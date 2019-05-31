@@ -1,0 +1,13 @@
+.container{
+    width: 960px;
+    margin:0 auto;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+    animation: cart_in 1s;
+}
+@import "reset";
+@import "variable";
+@import "mixin";
+@import "header";
+@import "body";
+@import "media";
